@@ -1,0 +1,7 @@
+#Digital Skills
+Este proyecto es la primera fase del desafio para completar el curso de digital skills por Alura Latam 
+Dentro de este proyecto encontraremos un excel donde a partir de dos archivos csv se crea una base de datos donde se procesan y cargan en una tabla de excel, la cual se cuentra cargada en la sheet Merge_Base 
+Las columnas tienen el formato mas adecuado para la visualizacion de los datos y su futuro manejo,
+Se creo una columna para determinar el estatus (activo o inactivo ) de un colaborador de la empresa, 
+Y otra columna para clasificarlos de acuerdo a su grupo etario 
+tambien columnas adicionales para determinar la fecha de salida separada en mes y año asi como la fecha de contratacion separadas en mes y año.
